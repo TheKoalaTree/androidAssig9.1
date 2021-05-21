@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">RestaurantMapApp</string>
+    <string name="PingFangSC_Semibold">PingFangSC-Semibold</string>
+    <string name="PingFangSC_Regular">PingFangSC-Regular</string>
+    <string name="in">在</string>
+    <string name="search">市内找</string>
+    <string name="defaultCity">北京</string>
+    <string name="search_poi">检索</string>
+    <string name="PingFang_SC_Medium">PingFang-SC-Medium</string>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="color_white">#FFFFFF</color>
+    <color name="color_gray">#333333</color>
+    <color name="color_flow_window">#B822253D</color>
+    <color name="color_light_gray">#999999</color>
+    <color name="search_bar">#292B3C</color>
+    <color name="color_blue">#3F8CFF</color>
+    <color name="infowindow_bg">#bbFFFFFF</color>
+    <color name="color_light_light_gray">#F0F0F0</color>
+</resources>
